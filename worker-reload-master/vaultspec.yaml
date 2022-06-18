@@ -1,4 +1,4 @@
 Vault:
-  Address: https://vault-vault.container-crush-01-4044f3a4e314f4bcb433696c70d13be9-0000.che01.containers.appdomain.cloud/
-  Token: s.9fL2ILgvpFwzNh9ce7U9DOm6
+  Address: <Vault_Addr>
+  Token: <Vault_login_token>
   Get_secret_path: secret/clusters
