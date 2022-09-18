@@ -1,4 +1,0 @@
-Vault:
-  Address: <Vault_Addr>
-  Token: <Vault_login_token>
-  Get_secret_path: secret/clusters
